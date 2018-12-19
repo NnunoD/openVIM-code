@@ -2,7 +2,7 @@
 
 **Last update:** 2018-12-19, Nuno Domingues<br/>
 **Description:** Changes made to OpenVIM in order to instantiate VM/servers in ARM processors.<br/>
-Copy code on create_xml_server.py and substitute the OpenVIM function on:<br/>
+Copy code on create_xml_server.py and substitute the respective OpenVIM function on:<br/>
 * file: _(openvim_directory)/osm_openvim/host_thread.py_<br/>
 * function: _create_xml_server_<br/><br/>
 
