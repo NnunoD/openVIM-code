@@ -10,5 +10,5 @@ Notes:
 
 Afterwards, changes were made to the image (possible security issues):
 - root password changed
-- ssh config changed (Permit Root Login)
+- ssh config changed (Permit root login)
 
