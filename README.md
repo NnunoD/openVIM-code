@@ -9,7 +9,7 @@ Notes:
 - Images tested: Debian Official Cloud Images for OpenStack (arm64 images, Debian 9.5.0)
 
 Afterwards, changes were made to the image:
-- root password changed;
-- ssh config changed (Permit Root Login);
+- root password changed
+- ssh config changed (Permit Root Login)<br/>
 (Warning: possible security issues due to changes to root)
 
