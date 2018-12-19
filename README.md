@@ -11,7 +11,3 @@ Copy code on create_xml_server.py to the respective OpenVIM function:<br/>
 - VMs instantiated on Raspberry Pi 3 Model B with openSUSE 42.3 (arm64)
 - Images tested: Debian Official Cloud Images for OpenStack (arm64 images, specifically Debian 9.5.0)
 
-Afterwards, changes were made to the image (not obligatory, possible security issues):
-- root password changed
-- ssh config changed (Permit root login)
-
